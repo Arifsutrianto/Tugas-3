@@ -1,0 +1,8 @@
+print('{:^100}'.format('UNIVERSITAS TEKNOLOGI SUMBAWA'))
+print('{:^100}'.format('JL Dipati Ukur 112-114, SUMBAWA'))
+print('{:^100}'.format('-'*60))
+print(('{:20}'.format('Nama')+'{:20}'.format(': Arif Sutrianto')).center(100))
+print(('{:20}'.format('NIM')+'{:20}'.format(': 1901013095')).center(100))
+print(('{:20}'.format('Jurusan')+'{:20}'.format(': Informatika')).center(100))
+print(('{:20}'.format('Fakultas')+'{:20}'.format(': Teknik Ilmu dan Komputer')).center(105))
+print('{:^100}'.format('-'*60))
